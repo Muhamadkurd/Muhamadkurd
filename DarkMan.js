@@ -31,7 +31,7 @@ const client21 = new Discord.Client();
 const client22 = new Discord.Client();
 const client23 = new Discord.Client();
 const client24 = new Discord.Client();
-const client25 = new Discord.Client();
+const client25 = new Discord.Client(); 
 const client26 = new Discord.Client();
 const client27 = new Discord.Client();
 const client28 = new Discord.Client();
@@ -7388,7 +7388,7 @@ message.member.voiceChannel
 //تۆكینه‌كان لێره‌ جا بنێ
 
 client.login("");
-client2.login("");
+client2.login("ODg5NTQ4NDIxNzM0Nzl3NzlwYUicg.eXgmplmzCHH6Bbn0gA7sATthwvo");
 client3.login("");
 client4.login("");
 client5.login("");
