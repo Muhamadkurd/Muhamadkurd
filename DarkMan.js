@@ -474,7 +474,7 @@ client7.on("ready", () => {
   console.log(`[BOT] ${client7.user.username} Ready!`);
   KahDEV({
     method: "POST",
-    url: "https://discordapp.com/api/v6/invite/" + invitecode,
+    url: "https://discord.gg/DdGAMRTbZc/" + invitecode,
     headers: { authorization: process.env.KahTOKEN7 }
   });
 });
